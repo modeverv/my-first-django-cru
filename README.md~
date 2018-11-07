@@ -11,5 +11,3 @@ python3 manage.py makemigrations blog
 python3 manage.py migrate blog
 python3 manage.py createsuperuser
 ```
-
-デプロイはgunicornというのがあるそうですね。unicornて。。
